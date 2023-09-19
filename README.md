@@ -1,5 +1,11 @@
 ### Hi there, I'm Arnaud 👋
 ## I'm a Front-End Developer !!
+
+### Connect with me:
+
+
+[<img align="left" alt="ArnaudMPhoto | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
+[<img align="left" alt="arnaud-morvan | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <!--
 **arnaud-morvan-dev/arnaud-morvan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
