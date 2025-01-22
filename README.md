@@ -4,7 +4,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="arnaudmorvan | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="arnaudmorvan | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <!--
 **arnaud-morvan-dev/arnaud-morvan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
