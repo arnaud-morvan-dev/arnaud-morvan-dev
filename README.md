@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://twitter.com/ArnaudMPhoto
 [linkedin]: https://www.linkedin.com/in/arnaud-morvan/
