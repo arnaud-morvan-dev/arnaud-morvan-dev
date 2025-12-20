@@ -1,5 +1,12 @@
 ### Hi there, I'm Arnaud 👋
-## I'm a Front-End Developer !!
+## I'm a Full-Stack WordPress Developer
+
+I build **custom WordPress websites and features**, combining a **modern front-end** with **PHP back-end development**.
+
+- Front-end: SASS, jQuery, JavaScript, GSAP
+- WordPress: custom themes, plugins, modules & shortcodes  
+- PHP: hooks, filters, custom logic  
+- Focus on performance, UX and clean code
 
 ### Connect with me:
 
