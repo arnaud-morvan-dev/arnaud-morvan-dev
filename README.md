@@ -3,9 +3,9 @@
 
 I build **custom WordPress websites and features**, combining a **modern front-end** with **PHP back-end development**.
 
-- Front-end: SASS, jQuery, JavaScript, GSAP
 - WordPress: custom themes, plugins, modules & shortcodes  
-- PHP: hooks, filters, custom logic  
+- PHP: hooks, filters, custom logic 
+- Front-end: SASS, jQuery, JavaScript, GSAP 
 - Focus on performance, UX and clean code
 
 ### Connect with me:
