@@ -1,5 +1,5 @@
 ### Hi there, I'm Arnaud 👋
-## I'm a Full-Stack WordPress Developer
+## I'm a Developer Web | Wordpress | PHP
 
 I build **custom WordPress websites and features**, combining a **modern front-end** with **PHP back-end development**.
 
